@@ -1,0 +1,9 @@
+[package]
+name = "tracer"
+version = "0.1.0"
+authors = ["Connor Austin <arcademissile@gmail.com>"]
+
+[dependencies]
+sdl2 = "0.29.0"
+
+
